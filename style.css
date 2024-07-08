@@ -1,0 +1,106 @@
+
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/4990895.jpg);
+    background-position: cover;
+
+
+}
+
+.main>h1{
+text-align: center;
+color: aliceblue;
+font-size: 40px;
+}
+
+.container{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+.first{
+    justify-content: center;
+    display: flex;
+    gap: 120px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+.second{
+    justify-content: center;
+    display: flex;
+    gap: 120px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+.container-2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container-2>input{
+    background-color: rgb(133, 147, 8);
+    border: 2px solid white;
+    height: 35px;
+    width: 300px;
+    box-shadow: 1px 3px 20px rgb(175, 6, 6), 3px 3px 95px rgba(0, 0, 0, 3);
+}
+
+.container-3{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#blue{
+                height: 38px;
+                width: 145px;
+                border-radius: 15px;
+                color: #fff;
+                background: #0006fd36;
+                border: 2px solid #1000ff54;
+                box-shadow: -1px -3px 20px blue, 3px 3px 95px rgba(0, 0, 0, 3);
+                cursor: pointer;
+}
+
+#green{
+                height: 38px;
+                width: 145px;
+                border-radius: 15px;
+                color: #fff;
+                background: #12a11036;
+                border: 2px solid #1000ff54;
+                box-shadow: -1px -3px 20px rgb(90, 163, 105), 3px 3px 95px rgba(0, 0, 0, 3);
+                cursor: pointer;
+}
+
+.container-4{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+#check-status{
+                height: 38px;
+                width: 145px;
+                border-radius: 15px;
+                color: #186687;
+                background: #af13c436;
+                border: 2px solid #1000ff54;
+                box-shadow: -1px -3px 20px #690e70, 3px 3px 95px rgba(0, 0, 0, 3);
+                cursor: pointer;
+}
+
+
+
+
